@@ -10,4 +10,4 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 - [x] Paso 2
 - [x] Paso 3
 - [x] Paso 4
-- [ ] Paso 5
+- [x] Paso 5
